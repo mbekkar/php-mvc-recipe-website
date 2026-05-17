@@ -3,7 +3,7 @@
 > A full-stack PHP web application to share and discover recipes.  
 > Built from scratch with a **custom MVC framework** — no Laravel, no Symfony.
 
-**Author:** Mounir Bekkar · Licence Informatique · Université Lumière Lyon 2  
+**Author:** Mounir Bekkar · master Informatique · Université Lumière Lyon 2  
 **GitHub:** [github.com/mbekkar](https://github.com/mbekkar)
 
 ---
